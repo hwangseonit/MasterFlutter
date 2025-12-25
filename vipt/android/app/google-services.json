@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851373096288",
+    "project_id": "da-flutter-b171a",
+    "storage_bucket": "da-flutter-b171a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851373096288:android:d76953d8b8c54327c83205",
+        "android_client_info": {
+          "package_name": "itzoo.tl.vipt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyA8kiZ1BcYo15W9A913moa2sIcL9pNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
